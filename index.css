@@ -1,0 +1,24 @@
+#loader{
+    width: 100%;
+    height: 100vh;
+    background:#000 url(ZealousFineHochstettersfrog-size_restricted.gif) no-repeat center center;
+    background-size: 15%;
+    position: fixed;
+    z-index: 100;
+    opacity: 0.9;
+}
+
+.class{
+    background-color: black;
+    transition: 0.9s;
+
+}
+    .body-fon{
+        color:white;
+    }
+.color{
+    color: white;
+}
+.lo{
+    color: white;
+}
